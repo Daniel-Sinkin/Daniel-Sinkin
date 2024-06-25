@@ -1,16 +1,28 @@
-## Hi there 👋
+# 👋
+Hey there, I'm Daniel a somewhat recent mathematics masters graduate with a minor in computer science. During my degree I mostly focussed on Differential and Symplectic Geometry. Afterwards I've started to become more interested in programming topics and been mostly focussed on that.
 
-<!--
-**Daniel-Sinkin/Daniel-Sinkin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am very proficient in Python, somewhat proficient in C++ and Rust and have some experience in Haskell, C# and C.
 
-Here are some ideas to get you started:
+My big areas of interest are Data Science and AI, Computer Graphics (in particular technical art), numerical programming and building tools to increase productivity.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+If something seems interesting or you just want to chat don't hesitate to reach out!
+
+# Projects
+## Completed Projects
+### [Personal Tooling](https://github.com/Daniel-Sinkin/ds_util) (lines = 759)
+* AST Explorer (lines=338)a
+    * Analyses the functions, classes and class functions of one or more python scripts, printing out function headers, total function, class and line count.
+* ZHS (lines=115)
+    * Alias for different commonly used shell commands which are invoked as subprocess.
+* Linker (lines=76)
+    * Same as ZHS just that it works for internet links. Also supports groups of links opened at the same time.
+* Time Tracker (lines=230)
+    * Project based time tracker that allows starting and stopping tracking time for individual projects, projects can be equipped with tags.
+### [Snake in OpenGL](https://github.com/Daniel-Sinkin/snake) (lines = 790)
+* A (very) simple main menu with a fancy shader effect.
+* Fully functional gameplay look with movement, pickup generation, collision, getting moved back to main menu on death and sounds on object pickup.
+### [Deep Neural Net visualizer](https://github.com/Daniel-Sinkin/nn_visualizer) (lines = 430)
+## In Hiatus
+### [NN From Scratch](https://github.com/Daniel-Sinkin/nn_from_scratch) (lines = 980, tests_lines=846)
+### [Nanograd](https://github.com/Daniel-Sinkin/nanograd) (lines = 1290, test_lines = 298)
+### [3D Engine in OpenGL](https://github.com/Daniel-Sinkin/opengl) (lines = 3390, test_lines = 234, shaders_lines = 576)
