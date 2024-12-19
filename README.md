@@ -9,10 +9,10 @@ If something seems interesting or you just want to chat don't hesitate to reach 
 
 # Projects
 * [Vulkan](https://github.com/Daniel-Sinkin/Vulkan)
-  * C++ 3d Engine written written for the low level Vulkan graphics card API.
+  * C++ 3d Engine written for the low level Vulkan graphics card API.
   * Supports model loading, shader integration, autocompilation and resource management.
 * [VulkanC](https://github.com/Daniel-Sinkin/VulkanC)
-  * The Vulkan project rewritten to be C99 compatible.
+  * The Vulkan project rewritten in C to be C99 compatible.
 * [DSTrade](https://github.com/Daniel-Sinkin/DSTrade)
   * Trading utilities.
   * Offers fully code generated python API integration for AlphaVantage by parsing through the online documentation
