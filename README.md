@@ -7,14 +7,18 @@ My big areas of interest are Data Science and AI, Computer Graphics (in particul
 
 If something seems interesting or you just want to chat don't hesitate to reach out!
 
-# Projects
+# Noteable Projects
 * [Vulkan](https://github.com/Daniel-Sinkin/Vulkan)
-  * C++ 3d Engine written for the low level Vulkan graphics card API.
-  * Supports model loading, shader integration, autocompilation and resource management.
+  * C++ 3d Model viewer Engine written for the low level Vulkan graphics card API.
+  * Model loading
+  * Shader compilation and integration pipeline
+  * Rendering Pipeline
+  * Floating camera interaction (moving and changing viewing angle)
 * [VulkanC](https://github.com/Daniel-Sinkin/VulkanC)
-  * The Vulkan project rewritten in C to be C99 compatible.
+  * The "Vulkan" project rewritten in C to be C99 compatible.
 * [DSTrade](https://github.com/Daniel-Sinkin/DSTrade)
-  * Trading utilities.
-  * Offers fully code generated python API integration for AlphaVantage by parsing through the online documentation
+  * Parsing Alphavantage API from HTML documentation
+  * Codegeneration for python functions covering all REST API endpoints
 * [DeepNeuralNetwork](https://github.com/Daniel-Sinkin/DeepNeuralNetwork/)
   * From scratch implementation of Deep Neural Networks with automatic backpropagation engine.
+  * Uses Numpy
