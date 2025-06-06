@@ -34,3 +34,5 @@ If something seems interesting or you just want to chat don't hesitate to reach 
   * From scratch implementation of Deep Neural Networks with automatic backpropagation engine.
   * Written in Python
   * Uses Numpy
+* [OpenGL](https://github.com/Daniel-Sinkin/opengl/tree/main)
+  * Python 3d Engine with OpenGL and PyGame.
