@@ -16,6 +16,7 @@ If something seems interesting or you just want to chat don't hesitate to reach 
   * Full 151 Instruction Compatibility
 * [Chip-8 Emulator](https://github.com/Daniel-Sinkin/chip-8-emulator/)
   * Amiga Era Software Interpreter
+  * Written in C++.
   * Full 35 Instruction Compatibility
   * Rudimentary Async Timing
 * [Vulkan](https://github.com/Daniel-Sinkin/Vulkan)
