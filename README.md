@@ -8,6 +8,19 @@ My big areas of interest are Data Science and AI, Computer Graphics (in particul
 If something seems interesting or you just want to chat don't hesitate to reach out!
 
 # Noteable Projects
+* [DeepLearning](https://github.com/daniel-sinkin/deeplearning)
+  * Uses Python and PyTorch
+  * Has complete Encoder-Decoder Transformer based on the original 2017 Vasvani et al paper.
+  * Thorough Pytest based test suite
+  * Synthetic Training scenarios to validate correct implementation
+* [Vulkan](https://github.com/Daniel-Sinkin/Vulkan)
+  * C++ 3d Model viewer Engine written for the low level Vulkan graphics card API.
+  * Model loading
+  * Shader compilation and integration pipeline
+  * Rendering Pipeline
+  * Floating camera interaction (moving and changing viewing angle)
+* [VulkanC](https://github.com/Daniel-Sinkin/VulkanC)
+  * The "Vulkan" project rewritten in C to be C99 compatible.
 * [6502 CPU Emulator](https://github.com/Daniel-Sinkin/6502-emulator) (WIP)
   * NES, Commodore64 Era
   * Written in C++
@@ -19,14 +32,6 @@ If something seems interesting or you just want to chat don't hesitate to reach 
   * Written in C++.
   * Full 35 Instruction Compatibility
   * Rudimentary Async Timing
-* [Vulkan](https://github.com/Daniel-Sinkin/Vulkan)
-  * C++ 3d Model viewer Engine written for the low level Vulkan graphics card API.
-  * Model loading
-  * Shader compilation and integration pipeline
-  * Rendering Pipeline
-  * Floating camera interaction (moving and changing viewing angle)
-* [VulkanC](https://github.com/Daniel-Sinkin/VulkanC)
-  * The "Vulkan" project rewritten in C to be C99 compatible.
 * [DSTrade](https://github.com/Daniel-Sinkin/DSTrade)
   * Parsing Alphavantage API from HTML documentation
   * Written in Python
