@@ -7,6 +7,8 @@ My big areas of interest are Data Science and AI, Computer Graphics (in particul
 
 If something seems interesting or you just want to chat don't hesitate to reach out!
 
+Very sparse blog can be found here: https://daniel-sinkin.github.io
+
 # Noteable Projects
 * [DeepLearning](https://github.com/daniel-sinkin/deeplearning)
   * Uses Python and PyTorch
