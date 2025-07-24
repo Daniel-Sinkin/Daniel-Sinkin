@@ -13,6 +13,7 @@ Very sparse blog can be found here: https://daniel-sinkin.github.io
 * [DeepLearning](https://github.com/daniel-sinkin/deeplearning)
   * Uses Python and PyTorch
   * Has complete Encoder-Decoder Transformer based on the original 2017 Vasvani et al paper.
+  * Implemented and Trained Diffusion model on the CIFAR dataset.
   * Thorough Pytest based test suite
   * Synthetic Training scenarios to validate correct implementation
 * [Vulkan](https://github.com/Daniel-Sinkin/Vulkan)
