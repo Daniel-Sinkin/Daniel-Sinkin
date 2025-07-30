@@ -16,6 +16,7 @@ Very sparse blog can be found here: https://daniel-sinkin.github.io
   * Implemented and Trained Diffusion model on the CIFAR dataset.
   * Thorough Pytest based test suite
   * Synthetic Training scenarios to validate correct implementation
+  * Contains many different Machine Learning specific visualisations
 * [Vulkan](https://github.com/Daniel-Sinkin/Vulkan)
   * C++ 3d Model viewer Engine written for the low level Vulkan graphics card API.
   * Model loading
