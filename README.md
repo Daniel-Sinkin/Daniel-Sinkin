@@ -46,3 +46,7 @@ Very sparse blog can be found here: https://daniel-sinkin.github.io
   * Uses Numpy
 * [OpenGL](https://github.com/Daniel-Sinkin/opengl/tree/main)
   * Python 3d Engine with OpenGL and PyGame.
+
+# Book Exercises
+* [Pattern Recognition and Machine Learning - Bishop (2006)](https://github.com/Daniel-Sinkin/Pattern-Recognition-and-Machine-Learning)
+* [Statistical Inference - Casella, Berger (2001)](https://github.com/Daniel-Sinkin/Statistical-Inference/)
