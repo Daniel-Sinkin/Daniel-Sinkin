@@ -1,9 +1,9 @@
 # 👋
-Hey there, I'm Daniel a mathematics masters graduate with a minor in computer science. During my degree I mostly focussed on Differential and Symplectic Geometry (subfields of mathematical physics). Afterwards I've started to become more interested in programming topics and been mostly focussed on that.
+Hey there, I'm Daniel a mathematics masters graduate (and soon to be computer science masters graduate.
 
-I am very proficient in Python, proficient in C++, somewhat proficient in Rust and have some experience in Haskell, C# and C.
+I am proficient in C++ and Python, somewhat proficient in Rust and have some experience in Haskell, C# and C.
 
-My big areas of interest are Data Science and AI, Computer Graphics (in particular technical art), numerical programming and building tools to increase productivity.
+My big areas of interest are Computer graphics, High performance computing and Machine Learning
 
 If something seems interesting or you just want to chat don't hesitate to reach out!
 
