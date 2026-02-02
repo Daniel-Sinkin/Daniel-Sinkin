@@ -10,6 +10,23 @@ If something seems interesting or you just want to chat don't hesitate to reach 
 Very sparse blog can be found here: https://daniel-sinkin.github.io
 
 # Noteable Projects
+* [Physically Based Animation Engine](https://github.com/Daniel-Sinkin/physically-based-animations)
+  * Designed and implemented a real-time 3D engine in modern C++ with OpenGL, focusing on deterministic simulation and predictable performance.
+  * Built a modular architecture spanning rendering, scene graphs, animation, physics integration, asset pipelines, and editor tooling.
+  * Emphasized data-oriented design with explicit ownership, arena-based allocation for per-step data, minimal dynamic allocation, and cache-friendly iteration patterns.
+  * Implemented numerically stable integration schemes for animation and physics, with careful handling of floating-point error accumulation.
+* [Script Interpreter](https://github.com/Daniel-Sinkin/ScriptInterpreterInCpp)
+  * For a simplified C-style language I wrote:
+   * Lexer
+   * Recursive-descent parser
+   * Bytecode Compiler
+   * Stack-based Virtual Machine
+* [6502 CPU Emulator](https://github.com/Daniel-Sinkin/6502-emulator) (WIP)
+  * NES, Commodore64 Era
+  * Written in C++
+  * Cycle Accurate Emulation
+  * Step Forward and Step Back cycle debugging through snapshotting
+  * Full 151 Instruction Compatibility
 * [DeepLearning](https://github.com/daniel-sinkin/deeplearning)
   * Uses Python and PyTorch
   * Has complete Encoder-Decoder Transformer based on the original 2017 Vasvani et al paper.
@@ -23,14 +40,6 @@ Very sparse blog can be found here: https://daniel-sinkin.github.io
   * Shader compilation and integration pipeline
   * Rendering Pipeline
   * Floating camera interaction (moving and changing viewing angle)
-* [VulkanC](https://github.com/Daniel-Sinkin/VulkanC)
-  * The "Vulkan" project rewritten in C to be C99 compatible.
-* [6502 CPU Emulator](https://github.com/Daniel-Sinkin/6502-emulator) (WIP)
-  * NES, Commodore64 Era
-  * Written in C++
-  * Cycle Accurate Emulation
-  * Step Forward and Step Back cycle debugging through snapshotting
-  * Full 151 Instruction Compatibility
 * [Chip-8 Emulator](https://github.com/Daniel-Sinkin/chip-8-emulator/)
   * Amiga Era Software Interpreter
   * Written in C++.
@@ -40,12 +49,6 @@ Very sparse blog can be found here: https://daniel-sinkin.github.io
   * Parsing Alphavantage API from HTML documentation
   * Written in Python
   * Codegeneration for python functions covering all REST API endpoints
-* [DeepNeuralNetwork](https://github.com/Daniel-Sinkin/DeepNeuralNetwork/)
-  * From scratch implementation of Deep Neural Networks with automatic backpropagation engine.
-  * Written in Python
-  * Uses Numpy
-* [OpenGL](https://github.com/Daniel-Sinkin/opengl/tree/main)
-  * Python 3d Engine with OpenGL and PyGame.
 
 # Book Exercises
 * [Pattern Recognition and Machine Learning - Bishop (2006)](https://github.com/Daniel-Sinkin/Pattern-Recognition-and-Machine-Learning)
