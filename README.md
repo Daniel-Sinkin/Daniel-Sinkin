@@ -7,6 +7,8 @@ My big areas of interest are Computer graphics, High performance computing and M
 
 If something seems interesting or you just want to chat don't hesitate to reach out!
 
+C++ Cheatsheet: https://daniel-sinkin.github.io/cpp-cheatsheet/
+
 Very sparse blog can be found here: https://daniel-sinkin.github.io
 
 # Noteable Projects
